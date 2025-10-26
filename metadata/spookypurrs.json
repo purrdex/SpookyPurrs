@@ -1,0 +1,4478 @@
+{
+  "name": "SpookyPurrs",
+  "slug": "spookypurrs",
+  "total_supply": 400,
+  "description": "A cursed litter of undead purrs — witches, zombies, skeletons, and frankensteins. Each inscribed forever onchain.",
+  "createdAt": "2025-10-26T20:28:46.777Z",
+  "collection_items": [
+    {
+      "sha": "b012d51958e417050f2424db5cec73d289e1f08dc5bd9ece628a2ee886a29dbb",
+      "name": 1,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "clothing": "frank_fashion"
+      }
+    },
+    {
+      "sha": "d3b48e9eb4afd69a52445c6723e996bc2c826be2b5de02df05f574b1168357ad",
+      "name": 2,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "clothing": "tie dye tee"
+      }
+    },
+    {
+      "sha": "59c89a4edb8fe888c899071e8fe21db8c411f665ea6c374d2fc226f09649dbb3",
+      "name": 3,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "matrix",
+        "fur": "skelly",
+        "clothing": "tie dye tee"
+      }
+    },
+    {
+      "sha": "256caca3b0de19bd08b3f2e8b2091d2f904307b1a98536ec23cb53c11ee23520",
+      "name": 4,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "windows",
+        "fur": "skelly",
+        "eyewear": "blue noggles"
+      }
+    },
+    {
+      "sha": "c4bb3691d4cc0482c373bcde9bfe283be80f3a7d3d1206b5a94045a87c17f4e1",
+      "name": 5,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "morpheus"
+      }
+    },
+    {
+      "sha": "eac8fd82d422992463c563db38d1f6b5b4bd6eb8230e2e5385781b264c2d07f6",
+      "name": 6,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "clothing": "hawaiian shirt",
+        "hat": "red bucket hat"
+      }
+    },
+    {
+      "sha": "f4fb0b2e075ee17ecf4d75a2daee601092ae827b1cbc814d85098fc95e4d91d1",
+      "name": 7,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "cream",
+        "mouth": "smile",
+        "eye_color": "blue",
+        "eyewear": "blue noggles",
+        "clothing": "robe",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "fe45740d39582348ffe18af4771d271fb7e035626784ce70a6a8d625b0d9d7f7",
+      "name": 8,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "clothing": "fashion hoodie"
+      }
+    },
+    {
+      "sha": "50491cc2fa41c9252754c26d0dde7843e46adeba6fac36684ed49760d842f587",
+      "name": 9,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "clothing": "blue tee"
+      }
+    },
+    {
+      "sha": "c88d9de4682424a211dd14b573baa8dc88955d8475830adb517c904060072f94",
+      "name": 10,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "this is fine",
+        "fur": "siamese",
+        "mouth": "yawn",
+        "eye_color": "yellow",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "a2ddc60ae540fae21792fbb2880a340ba7f79fbed6a8dee88b62605313bac791",
+      "name": 11,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "cream",
+        "mouth": "vape",
+        "eye_color": "orange",
+        "clothing": "blue tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "4f2b74b7419f9f67ea498516d75900aa6639abefe8340cae320288644aeadcb2",
+      "name": 12,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "skelly",
+        "eyewear": "blue noggles",
+        "clothing": "office shirt",
+        "hat": "wizard hat"
+      }
+    },
+    {
+      "sha": "4d3b9c2904b05964932be7056d44016291e3ef2a3e31d549299ecb3749435608",
+      "name": 13,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "eyewear": "aviators"
+      }
+    },
+    {
+      "sha": "49b240f9068c7a60c7eed6efb42481c2e6bb9e6d6042e18b7f22b4035911fe95",
+      "name": 14,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "clothing": "space suit",
+        "hat": "fitted cap"
+      }
+    },
+    {
+      "sha": "a72bdb7851ddcd99d50ea5cefce60f433860c2d309c9844150bae8848cab1211",
+      "name": 15,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "eb86b68bb9cb5d9780f3017c37a435c78c82d916605f37d1e4f19120cad12783",
+      "name": 16,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "clothing": "black hoodie"
+      }
+    },
+    {
+      "sha": "ebbd69d7e0ffbf12882a9f966339be7a9a25d06540fce9ef7129dd8225407442",
+      "name": 17,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "cool blue",
+        "mouth": "bored",
+        "eye_color": "blue",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "d748cc83edac018908da0345a8d3364a5f577cf86cc5dcb7ce24cd8c9c2bd5c9",
+      "name": 18,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "skelly",
+        "clothing": "tie dye tee"
+      }
+    },
+    {
+      "sha": "029f9c185914586d592a7cba42f2603bdb9375992e3a6c8e7dc4999fdbbd5e66",
+      "name": 19,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "blue noggles",
+        "clothing": "red tracksuit",
+        "hat": "420 bucket hat"
+      }
+    },
+    {
+      "sha": "fd8e974573330c308e429c376e3e6675a88d993582da7b184048caa70eec7c28",
+      "name": 20,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "cream",
+        "mouth": "cig",
+        "eye_color": "orange",
+        "eyewear": "bitcoin maxi",
+        "clothing": "red tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "df0842d6e7577e5d43b7fd08561a6a7de91e963bfd13f2f008d2f0e6b5e09ba1",
+      "name": 21,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "eyewear": "deal with it",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "35ed707b330dbb6e82216c9a66f503c661496ab3fe7566bf1bc723d9f38173a8",
+      "name": 22,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "siamese",
+        "mouth": "smile",
+        "eye_color": "blue",
+        "clothing": "hawaiian shirt",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "f4770687e29cb391bbd55c09b7a4135a420dad654e5744de820458d6f37de7d4",
+      "name": 23,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "clothing": "bomber"
+      }
+    },
+    {
+      "sha": "12ccbd9422118f97a61d2692f0c90831bf82fd638cfae4792239c8772a24e952",
+      "name": 24,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "eyewear": "viper glasses"
+      }
+    },
+    {
+      "sha": "27fbfcaa10973f1d9b28ac3e1a0e6c886807de125833a928d595748adaecb177",
+      "name": 25,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "clothing": "red tee"
+      }
+    },
+    {
+      "sha": "a88d497e55de00a5786556b54ecf3cfe4fa62946c4ebb18446d534886b138001",
+      "name": 26,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "cream",
+        "mouth": "cig",
+        "eye_color": "yellow",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "0c075d2018f319c14a1dc9b518da2eef2f1625a9d28a9f41628abc5e7336a1e1",
+      "name": 27,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "windows",
+        "fur": "skelly",
+        "eyewear": "morpheus"
+      }
+    },
+    {
+      "sha": "66680c5512434189df5515b716c71d3014e960e39da077ee0de18c2db4d071a5",
+      "name": 28,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "space",
+        "fur": "zombie_fur",
+        "eyewear": "bitcoin maxi",
+        "clothing": "robe",
+        "hat": "fedora",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "0c19f63922abb5acff9f4d62c3a43efeedd6e41d1c4b9a86e420cab4af732b8e",
+      "name": 29,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "clothing": "red tee"
+      }
+    },
+    {
+      "sha": "fd41fbf616961549b87216cd6e9da7817a5c74cc68acb8277492a37a46c1c970",
+      "name": 30,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "space",
+        "fur": "zombie_fur",
+        "eyewear": "viper glasses"
+      }
+    },
+    {
+      "sha": "f9a6511cae75079f897940909802b593bcf843a75ad8e9ba7a6c3bfa747a812b",
+      "name": 31,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "zombie_fur",
+        "eyewear": "viper glasses",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "ad47bdd31624a6c276fcc5460fb880ada9eb75efaf1cc340d42a5018e6432185",
+      "name": 32,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "cream",
+        "mouth": "smile",
+        "eye_color": "green",
+        "clothing": "red tracksuit",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "d602c6ce088b78cb650fec3dd0f47ea3ff5d84e323c28a32a37d56b03149be49",
+      "name": 33,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "cream",
+        "mouth": "bored",
+        "eye_color": "yellow",
+        "eyewear": "aviators",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "704e57ff26da32ebfb1fab0af1bce2b75069ab18ea80daa2f4c2d6b8e5bd04eb",
+      "name": 34,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "zombie_fur"
+      }
+    },
+    {
+      "sha": "af1243a312aceb7e8fc7afb62621da15c75aa72d3e93e5364b7c5c19e065aa2d",
+      "name": 35,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "eyewear": "viper glasses",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "2da4d5fc6983ad0df3e2735090b055589b4cbf7f4788c135c28107b6cd7078aa",
+      "name": 36,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "zombie_fur",
+        "eyewear": "blue noggles"
+      }
+    },
+    {
+      "sha": "fd0f399e0c9848c16ee0df974a38f7cc2dd09d9dfcbb52f17d13f70cdb97cb3e",
+      "name": 37,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "cream",
+        "mouth": "bored",
+        "eye_color": "yellow",
+        "eyewear": "deal with it",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "70d214ff486d36620f6d1512666b1a1c7be85f1a38dbb7e2dbdb1b13df5e258a",
+      "name": 38,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "cool blue",
+        "mouth": "vape",
+        "eye_color": "purple",
+        "hat": "Witch Hat",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "293e7b1590cbdd98b196bd918f9cb5faa601354a0fd34bf7f9d41dbd3424f488",
+      "name": 39,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "Frankie",
+        "eyewear": "aviators",
+        "clothing": "hacker"
+      }
+    },
+    {
+      "sha": "7d52a1788993994a2d740891784142f1b7a1f6f73f12e609563a8ef40e85c467",
+      "name": 40,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "eyewear": "viper glasses",
+        "clothing": "bomber",
+        "hat": "keffiyeh"
+      }
+    },
+    {
+      "sha": "38ff1737771a09f26656a54a4977f7ee80244db0deb85c87817ddb5ac75327aa",
+      "name": 41,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "Frankie",
+        "clothing": "hawaiian shirt",
+        "hat": "cowboy hat"
+      }
+    },
+    {
+      "sha": "550729c0c8b89733af9c732872c9866b898e3fb1f989043b715ab78719cce5ca",
+      "name": 42,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "eyewear": "morpheus",
+        "clothing": "bomber"
+      }
+    },
+    {
+      "sha": "11503bbb4ad83cf4f325283aabd9d5a10d07a1a28f15b2037a59173074688dd8",
+      "name": 43,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "nerd",
+        "clothing": "fashion hoodie"
+      }
+    },
+    {
+      "sha": "75e49b46bffe6a1d9b6f1803dd2ca277b7b301c77685a5a89e6ba54580601266",
+      "name": 44,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "skelly",
+        "clothing": "silver chain"
+      }
+    },
+    {
+      "sha": "f164999be27dbe284c420e4466a6eb682351b1e76ad37dfe5bdbf235356da368",
+      "name": 45,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "eyewear": "aviators",
+        "clothing": "fashion hoodie"
+      }
+    },
+    {
+      "sha": "fdf6dbedd98edb75606d5c5a12388c1040317552974ba81d1290446c1d0c8c04",
+      "name": 46,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "zombie_fur",
+        "eyewear": "deal with it",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "33fb16e6fdcb9050695945abc9bea0f6e8df89f07b7dde02cf28a26be794acd4",
+      "name": 47,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "zombie_fur",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "08c2d906a8ac0bd93bff3d381b6a1154a0004fb46d03ac0be8733f3c74bcc6cd",
+      "name": 48,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "red noggles"
+      }
+    },
+    {
+      "sha": "f8d9fb918ce4b52d75f04b8f93267eb1a4abfe079c137cf5b73897513539ed74",
+      "name": 49,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Gold_Zombie",
+        "eyewear": "viper glasses",
+        "clothing": "blue tee"
+      }
+    },
+    {
+      "sha": "495b0f0f9f6767c072ea01f2e381fed72fbe5afbfbf48d149ec81fe67108a5dd",
+      "name": 50,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "space",
+        "fur": "Frankie",
+        "eyewear": "blue noggles",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "cfa8551552932dd089e60493f607d77ea493c177c0b9133b4917553ca8c527c6",
+      "name": 51,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "Frankie",
+        "hat": "fitted cap"
+      }
+    },
+    {
+      "sha": "ec174b0dfb571428d57c1f166ea7843193e9a74bb6413d0b48c8d9f9c0e45668",
+      "name": 52,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "skelly"
+      }
+    },
+    {
+      "sha": "5ece1a94587c480b29205204dd9683f9b0c623e664fd2fc8bc0326e56748698b",
+      "name": 53,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "skelly",
+        "eyewear": "viper glasses",
+        "clothing": "hacker",
+        "hat": "cowboy hat"
+      }
+    },
+    {
+      "sha": "70e51558814828b344fc1b0785a098b19c521415ffb7e367736340946174213b",
+      "name": 54,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "skelly",
+        "eyewear": "blue noggles",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "aa58ef2e5b17dc1aaa19974dea574a7fb7c534667e8568ecafa9e655935d409a",
+      "name": 55,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "96acaa2e0a45d2850824fa36e8957859f40cc2d9db2c1aa9557d781632f4fbee",
+      "name": 56,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "clothing": "red tee"
+      }
+    },
+    {
+      "sha": "0927b3049096e85ec45cab6980509e5236916134e3dea8e03f9471625c4c8264",
+      "name": 57,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "clothing": "hawaiian shirt",
+        "hat": "420 bucket hat"
+      }
+    },
+    {
+      "sha": "1abc58aa879082026cd8a0c7f79cc5ab8503f682899fa3d9e273f6cc1a6e2bad",
+      "name": 58,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "skelly",
+        "eyewear": "morpheus",
+        "clothing": "bomber",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "2afa378ed13354069c58e697a733858bfa2b3c47393705f8924a87a4075cdfe4",
+      "name": 59,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "clothing": "red tracksuit"
+      }
+    },
+    {
+      "sha": "def994bb92f68eb9dd4ba90698119ca9a2945ab04bbc40a47e53bf06773854e8",
+      "name": 60,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur",
+        "eyewear": "blue noggles",
+        "clothing": "hacker"
+      }
+    },
+    {
+      "sha": "92089eb6de2510a498777c0e143f9ec9e821af8517d148ad727a0055151eb319",
+      "name": 61,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "fe041b33eb99e33cb55301f74f382988490a4fd694262901a9b702a6ae708980",
+      "name": 62,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "space",
+        "fur": "Frankie",
+        "eyewear": "red noggles",
+        "clothing": "blue tee"
+      }
+    },
+    {
+      "sha": "19e3ba76e9e1d3536cbbc3c90b8527c85a818840215fae4634ce98bc6eec9c7d",
+      "name": 63,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "Frankie",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "7e20129d7c28beb3d89f4e2f64afa78411085335060375673b70290e18bdf906",
+      "name": 64,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "skelly",
+        "clothing": "red tee",
+        "hat": "snapback"
+      }
+    },
+    {
+      "sha": "02ad5184806415fb96e544cd679bc21989edf9628a4af2ec39e7a69f81e8b255",
+      "name": 65,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "eyewear": "bitcoin maxi",
+        "hat": "safari"
+      }
+    },
+    {
+      "sha": "dcb69090b9a72f39e0b70ebe6094334cc484d450198acd0ab8a1bfbad790529b",
+      "name": 66,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "clothing": "red tracksuit",
+        "hat": "rainbow"
+      }
+    },
+    {
+      "sha": "4a0d48a986829c1a3e6e270db431a912afaf0c7e1822b67704726c8186555579",
+      "name": 67,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "cream",
+        "mouth": "smile",
+        "eye_color": "yellow",
+        "eyewear": "aviators",
+        "clothing": "space suit",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "3b384b582ce721659930361e70e9563720ee097e2158e08abe9417e67a60a63a",
+      "name": 68,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Gold_Frankie",
+        "clothing": "hacker",
+        "hat": "orange beanie"
+      }
+    },
+    {
+      "sha": "841866061c99c837f5c9aa957c6dca1e07521f6effebae7dd07507512acf57fb",
+      "name": 69,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "cool blue",
+        "mouth": "bubble gum",
+        "eye_color": "green",
+        "eyewear": "blue noggles",
+        "clothing": "red tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "c2af4b7b28204d52ef67696794743fa61b55b805c476440707d3045413c814c6",
+      "name": 70,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "zombie_fur",
+        "clothing": "silver chain"
+      }
+    },
+    {
+      "sha": "7f750cc51318710f7235d063b66565660efdd81b0fcac17c38805cc819cc6e84",
+      "name": 71,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "clothing": "red tracksuit"
+      }
+    },
+    {
+      "sha": "9d8ca4b17e6223d41c2a0869617275686740a3110567a4cf3327044a49018ef6",
+      "name": 72,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "skelly"
+      }
+    },
+    {
+      "sha": "147527b2a714b7197abf4e1bb77e6ac4c2ae14c1a7f965008ec9226e033c6340",
+      "name": 73,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur",
+        "eyewear": "deal with it",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "89356138478c6c1a49ece2d2dfca397253d48069b2b9db28a63b7035563b558e",
+      "name": 74,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "eyewear": "red noggles",
+        "clothing": "black hoodie"
+      }
+    },
+    {
+      "sha": "f527af49e28f5961cad71ef8169e02d6d761f535925098e8c223c1c6d968a1d6",
+      "name": 75,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "eyewear": "red noggles",
+        "clothing": "red tee",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "7d859de0f169082113b373fe374ccd59f8a9831dd0974a0ab6494a0e583ce0c8",
+      "name": 76,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "siamese",
+        "mouth": "mustache",
+        "eye_color": "purple",
+        "clothing": "red tracksuit",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "67120977ed471e645bdecd97f52f5217aa870992262c1f76f44155ae46aea2de",
+      "name": 77,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "skelly"
+      }
+    },
+    {
+      "sha": "f53ddde980cbdd378ac45c6b0680a09a5751ffbda6b6d69b56763e39a07a3d36",
+      "name": 78,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "space",
+        "fur": "zombie_fur",
+        "clothing": "blue tee"
+      }
+    },
+    {
+      "sha": "0b5debc441e6dc934a9be38d9b4d99d7e9d85a6488535692706d802cfe6a7ebf",
+      "name": 79,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "orange tabby",
+        "mouth": "bored",
+        "eye_color": "green",
+        "clothing": "red tracksuit",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "eb3f4ecc50b13c36e1f27f91eb7979370fbb18947944d05192c638a5e9fce6ca",
+      "name": 80,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "Frankie",
+        "eyewear": "deal with it",
+        "clothing": "bomber"
+      }
+    },
+    {
+      "sha": "ae30c8d027014f6b011dd649d8ed4474afd1893e975c32087ca158c0fc543d41",
+      "name": 81,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "orange tabby",
+        "mouth": "bored",
+        "eye_color": "blue",
+        "clothing": "red tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "898ebea4618c0c75580286095708f459d125d849c017fb2a5536aa8316c52801",
+      "name": 82,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "eyewear": "morpheus",
+        "clothing": "hawaiian shirt",
+        "hat": "wizard hat"
+      }
+    },
+    {
+      "sha": "eb979297680781d8487ea5d2736ac9ff0a2a235efe496d75270206124e4ae305",
+      "name": 83,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "eyewear": "deal with it",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "f7bbfad5304f89f4b7a1b0f4368860be94dd228f722710faebcfe2ab48690d5b",
+      "name": 84,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "cream",
+        "mouth": "bored",
+        "eye_color": "purple",
+        "clothing": "space suit",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "7a9f060c1020698684fdb5fd7e45767027d2b9782b6ec9f7c92b21da31ba1d78",
+      "name": 85,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "space",
+        "fur": "zombie_fur",
+        "clothing": "bomber"
+      }
+    },
+    {
+      "sha": "8a78c0988d906492323c2151c3c6a7a0bcc5ef1c27fdec17c4fe908b420aea4b",
+      "name": 86,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "cool blue",
+        "mouth": "smile",
+        "eye_color": "green",
+        "eyewear": "blue noggles",
+        "clothing": "tie dye tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "864ab429bdfb3604c5b7f6c27a17d46d61c20dd8315f00ade4c3f623d5e35691",
+      "name": 87,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "skelly",
+        "clothing": "red tee"
+      }
+    },
+    {
+      "sha": "489c345d1bee72f29a20c2e48d1858df695bc34ce5e90e0167078c43f85cd8f4",
+      "name": 88,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "cream",
+        "mouth": "vape",
+        "eye_color": "orange",
+        "clothing": "red tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "a1b075e72ee81508b872c7d032c1f7449bc95f30cd119c80d64d35686739ce2f",
+      "name": 89,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "skelly",
+        "clothing": "robe",
+        "hat": "durag"
+      }
+    },
+    {
+      "sha": "ead5e04d28f1563d5cbc6ca58c6ed7f6fb1bbb61fef25317409242822190445e",
+      "name": 90,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "eyewear": "viper glasses",
+        "clothing": "black hoodie"
+      }
+    },
+    {
+      "sha": "40ecef390ad930836142abe8960cd01c0d661d457d7a6b9531a7f29ee5b68843",
+      "name": 91,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "eyewear": "deal with it",
+        "clothing": "tie dye tee"
+      }
+    },
+    {
+      "sha": "0388c789e19c21c8cc6af8592636ee6d5b2463df2369caa3127eb30f3c819f0b",
+      "name": 92,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "siamese",
+        "mouth": "bubble gum",
+        "eye_color": "green",
+        "eyewear": "blue noggles",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "c385e807bfec4cbb4f43a9d2a04f9f3b2240b0124e202bfeaf5da15e3505ea1d",
+      "name": 93,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "windows",
+        "fur": "skelly",
+        "eyewear": "morpheus",
+        "hat": "black headphones"
+      }
+    },
+    {
+      "sha": "928ba6cd06ce71867623777b6edf9a7ef7d728782b307ef1914e6d7b0df4e9d6",
+      "name": 94,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "cream",
+        "mouth": "smile",
+        "eye_color": "green",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "aef9efb0d91609b99ca79c8024ed87c57ba4eae253a6fdaf3ab08bb16b3069ab",
+      "name": 95,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "this is fine",
+        "fur": "Frankie"
+      }
+    },
+    {
+      "sha": "e2cf2bf056bc296130d975496824a8981e8496d6ff7e84c75b5ec7a13cc7e21e",
+      "name": 96,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "skelly",
+        "clothing": "space suit",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "76829c235d61b08e4bf97b8f3bae3879ca055ddaec87df7c170dc30c08b3529c",
+      "name": 97,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "Frankie",
+        "eyewear": "red noggles",
+        "clothing": "red tracksuit"
+      }
+    },
+    {
+      "sha": "ed0981d24dcae3e8a8556f7a170bc7da3cdbdeb7834288a99c130a58703d2243",
+      "name": 98,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "Frankie",
+        "eyewear": "aviators",
+        "clothing": "bomber"
+      }
+    },
+    {
+      "sha": "e13db5dadfc3c74c415388f40af0cbcea29326b16208f1a19a84b2c958bac731",
+      "name": 99,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur",
+        "clothing": "office shirt",
+        "hat": "snapback"
+      }
+    },
+    {
+      "sha": "078334dbb4646e99c645c3d36bd994cba15a2872b174b0819ca57072eddfaa5d",
+      "name": 100,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "clothing": "black hoodie"
+      }
+    },
+    {
+      "sha": "722d4a27f7de3b1528189ac1150bb73ac906722fc11759e5571d17dd69ae7ffe",
+      "name": 101,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "cool blue",
+        "mouth": "cig",
+        "eye_color": "green",
+        "eyewear": "deal with it",
+        "clothing": "blue tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "a944d3a40b60fb6d521c7b802e041e84cbf0fea561bb229e98d4fe830ae8096b",
+      "name": 102,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "matrix",
+        "fur": "Frankie",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "386d63ebd7ae58c295d4e680492e239bbaade2597e6b77f4347ab8d460e75b06",
+      "name": 103,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "eyewear": "nerd",
+        "clothing": "hawaiian shirt"
+      }
+    },
+    {
+      "sha": "e9b08e3e55ad48da2d85969804f515a70eac205b03fda897fef62ef4128baa5b",
+      "name": 104,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "clothing": "blue tee"
+      }
+    },
+    {
+      "sha": "77c03306bdd0444ee088ad446dbe6ee6f0a27a36dddab415c4011ce9c503d981",
+      "name": 105,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur"
+      }
+    },
+    {
+      "sha": "39c4112aa67e73778632f421ae61c5a0d5b87d945f3d922f5e915d679f5cdb68",
+      "name": 106,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "Frankie",
+        "eyewear": "viper glasses",
+        "clothing": "red tee",
+        "hat": "rainbow"
+      }
+    },
+    {
+      "sha": "ecd1f651e640bf5676831fe8083a14ba94c2da7e7b580e05faa9e4be7aaa2d07",
+      "name": 107,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "zombie_fur",
+        "eyewear": "deal with it",
+        "clothing": "hacker"
+      }
+    },
+    {
+      "sha": "de5a0c38196f487330247352e9cdc1c8a8afebc9b230abd50b6383ef653f35a3",
+      "name": 108,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "space",
+        "fur": "Frankie",
+        "eyewear": "viper glasses",
+        "clothing": "red tee"
+      }
+    },
+    {
+      "sha": "3e8d8b563fe68c4c632d5d363be6160e0ff9b9a25da83a24aed6822d5a2b5a98",
+      "name": 109,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "siamese",
+        "mouth": "bored",
+        "eye_color": "yellow",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "e4326e91ca69579fb763ce57e9d917af8c41e3fc9f88b5360949be543cdbd162",
+      "name": 110,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "clothing": "red tracksuit",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "a998336ce86e41d034067fbf2f4999569be41feee0ed7d0cc2abb3b2ef6af02f",
+      "name": 111,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "siamese",
+        "mouth": "cig",
+        "eye_color": "orange",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "746e4289b47fd6c58e49321a344e26bf5bccd8c0d29b4081b78453ae8a2bb155",
+      "name": 112,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "eyewear": "nerd"
+      }
+    },
+    {
+      "sha": "c759e3f1db5fe4f54030c58f6b2f71645f07969d8c57574e9e764b540be1068f",
+      "name": 113,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "Frankie",
+        "eyewear": "bitcoin maxi",
+        "clothing": "hawaiian shirt",
+        "hat": "black headphones"
+      }
+    },
+    {
+      "sha": "8af646cbe19364b537798d3466ba4b1d69fba3ab11143c35357a0c511c3f02ad",
+      "name": 114,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "siamese",
+        "mouth": "yawn",
+        "eye_color": "yellow",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "732559329805c0403ad2ba6fd410979b9816f12019122d35695ed6177c535686",
+      "name": 115,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "skelly",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "f3c9eae12417a48d14a8440c2b64f9839aa939f31caf0ad99cd19e04f49949cf",
+      "name": 116,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "cream",
+        "mouth": "smile",
+        "eye_color": "purple",
+        "clothing": "robe",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "3d41dc7e6cf9e5487044bbd4f7165ffedf9969f586007c35961f81fda459d22e",
+      "name": 117,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "deal with it",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "c18bc37876d8eca3b31f602c39b6084a4caf3c1e366bab881542ccfaf1faccaa",
+      "name": 118,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "Frankie",
+        "clothing": "silver chain"
+      }
+    },
+    {
+      "sha": "a324eadd7131a36e3c7d99feba98e13a8f120c6ad116f7e51bc5491a02d4ec93",
+      "name": 119,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "cream",
+        "mouth": "smile",
+        "eye_color": "orange",
+        "eyewear": "viper glasses",
+        "clothing": "bomber",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "4ac3f2f5d1bcd540cd384ed286572a6861bc1fb7d811a780e28495dd8ef9808b",
+      "name": 120,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "viper glasses",
+        "clothing": "frank_fashion"
+      }
+    },
+    {
+      "sha": "bfe955395dd6f7f76f1e608ae727e4e241a4acdb6df018baade5ab4e680bb8ac",
+      "name": 121,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "Frankie",
+        "eyewear": "red noggles",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "a2aac2d4043835a6af832e48274d32c4199c4076a5621454a4f13aab4ae1060c",
+      "name": 122,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "orange tabby",
+        "mouth": "bored",
+        "eye_color": "purple",
+        "clothing": "tie dye tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "9edbe9e31fb48e994b40b0460322e92c49a1f2924978f292fb0a5d27b6ff37f4",
+      "name": 123,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "Frankie",
+        "eyewear": "nerd"
+      }
+    },
+    {
+      "sha": "365a9e294e4ad19e853450f6af724df6b8dbf0b6817e8a1a3b85f5f7a2073897",
+      "name": 124,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "cool blue",
+        "mouth": "bored",
+        "eye_color": "green",
+        "clothing": "red tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "a47573bec906feac1d86db20f8ae228bb0f006c96709ae698351c594d3b28ba8",
+      "name": 125,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "space",
+        "fur": "cool blue",
+        "mouth": "vape",
+        "eye_color": "orange",
+        "clothing": "bomber",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "3a71e3f075b8df72ab25f752d4e68b23ea3b2c4f05fb8d03d4fff053f5e803ae",
+      "name": 126,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "windows",
+        "fur": "skelly"
+      }
+    },
+    {
+      "sha": "631516978a475498b18c950f95ef2547dfc4ce4b694948705531638492da2e67",
+      "name": 127,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "zombie_fur",
+        "clothing": "blue tee"
+      }
+    },
+    {
+      "sha": "a75f5f855843bc8f86df9271a1bf9d999094ac4dd131f72b05ebc6dad8d50c26",
+      "name": 128,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "zombie_fur",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "82695fbe64f12f498ef2d718da6e722555fcacc186eab6c7b547c4b573f1c6a7",
+      "name": 129,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "cream",
+        "mouth": "cig",
+        "eye_color": "green",
+        "eyewear": "aviators",
+        "clothing": "robe",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "922eacb9a89bdb79cf69b631c1421e689ca435c1d4ffd06e7526554f612ed054",
+      "name": 130,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "Frankie",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "96a13e671f8ee2608c041511cde0f9bb8e603875cf9c7c940a2ffd85e08b57f8",
+      "name": 131,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "zombie_fur",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "3bfabcbf5409a4e77b5eeb2952f2a2221fb71ae6e54653db15769a11d861f691",
+      "name": 132,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "matrix",
+        "fur": "zombie_fur",
+        "eyewear": "deal with it",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "e521687253380b796f8c24c87e11909e6fdde3d2028f4a2934f0194466324265",
+      "name": 133,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "orange tabby",
+        "mouth": "smile",
+        "eye_color": "blue",
+        "eyewear": "viper glasses",
+        "clothing": "blue tracksuit",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "cc53f0e7eb93501b7af6323ecd8bf2b727fca4309b6f07bd26a168060f5e56a0",
+      "name": 134,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "eyewear": "morpheus",
+        "clothing": "red tee"
+      }
+    },
+    {
+      "sha": "392f052925ecf59bdb0d540266cffd3e67572e1bfbf1ebe58c5b0dfdecb30e0b",
+      "name": 135,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "orange tabby",
+        "mouth": "smile",
+        "eye_color": "green",
+        "eyewear": "viper glasses",
+        "clothing": "bomber",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "c39975937ccf0098649d61dd1c6a08cc6058317e77087bbae32bfb82fb55debe",
+      "name": 136,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "this is fine",
+        "fur": "Frankie",
+        "clothing": "bomber",
+        "hat": "wizard hat"
+      }
+    },
+    {
+      "sha": "f787bce4432fa11f82273fa792d3c79fbb295e3c6e38e82a3044829a9f0cb50e",
+      "name": 137,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly"
+      }
+    },
+    {
+      "sha": "d6155617fbb78e5ef641faff17e1d8b5439efb5eb225fe1fefc37c84127405c4",
+      "name": 138,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "240058c45d6c12ae103f4c4ed2b575125da49632315a260e2cbd07b208aada0b",
+      "name": 139,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "space",
+        "fur": "skelly"
+      }
+    },
+    {
+      "sha": "7d97bb802518af943f0e98f4950cfb1c7143683e1f3a6dc34898c0505ba6627d",
+      "name": 140,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "morpheus",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "c7896e3b8218b57223043105aa8a888843505bd2cfbbf6cc548b47da03446e10",
+      "name": 141,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "skelly",
+        "hat": "wizard hat"
+      }
+    },
+    {
+      "sha": "bca490ff98f13dacf48a8ae828d9b0554ac9f4bfc84bcfdc89f96940c7694e3a",
+      "name": 142,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur",
+        "clothing": "hacker"
+      }
+    },
+    {
+      "sha": "e0230ef4c6ea74246d4a300ad1c6879f17da1cbe9a6a5b1c888969884eefcfa2",
+      "name": 143,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "377dc7d658a713c63e5099da79b565942506e1f5eb95ed5e416cc7a16b069fac",
+      "name": 144,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "matrix",
+        "fur": "Frankie",
+        "eyewear": "viper glasses",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "a75b7222736cd5495a71f9919bf9cd3153f7c652385c945271615f6225f5c042",
+      "name": 145,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "eyewear": "viper glasses",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "b7d538c5e28933555cfcde282e870d22b7c7d424ebd7080a49dda74f58d6dca4",
+      "name": 146,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "orange tabby",
+        "mouth": "bored",
+        "eye_color": "purple",
+        "eyewear": "nerd",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "f09603df39821b4e27e00e558227d4fb774a91702351ff42d17e4b4b2785d93c",
+      "name": 147,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "e7c29569d02bc4c327f4e40cd621da51a5b98d60c4353eaf8c111eed4daf3a03",
+      "name": 148,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "cool blue",
+        "mouth": "vape",
+        "eye_color": "blue",
+        "eyewear": "viper glasses",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "1ddc93cc78cc8f26b4ff71a084e7f797a578fd0a5d575aabda41c311a5bd6271",
+      "name": 149,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur",
+        "eyewear": "viper glasses",
+        "clothing": "red tee"
+      }
+    },
+    {
+      "sha": "8b4031ee6a3bf5fede076bdd9c9600d853db05bd1369e752ee43b3af85134534",
+      "name": 150,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "Frankie",
+        "eyewear": "bitcoin maxi",
+        "clothing": "hawaiian shirt"
+      }
+    },
+    {
+      "sha": "c2440630546e369f8be41bab93194a78c840f92a1121bc916588a772f107a71a",
+      "name": 151,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "morpheus",
+        "clothing": "fashion hoodie"
+      }
+    },
+    {
+      "sha": "066986ab17e75ef951b8e1d64f0b93beb3ca1c8b12abb8896fa54ac2c313d889",
+      "name": 152,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "skelly",
+        "eyewear": "red noggles",
+        "clothing": "hacker",
+        "hat": "red bucket hat"
+      }
+    },
+    {
+      "sha": "393e85db4d702b8e68fc94a833891c6ce98dc879d4a2e87f71e74453b34c41e7",
+      "name": 153,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "siamese",
+        "mouth": "yawn",
+        "eye_color": "orange",
+        "clothing": "hacker",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "9c101decaf321fb60fb3c2e1e8a45ebb7ef4ce8ee2f6af99fea3e00cc8a4525a",
+      "name": 154,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "viper glasses"
+      }
+    },
+    {
+      "sha": "1c5bd8f183fa5b4c5fde5f465539831b227a5aed2aa61dd00b1422078f6d6d77",
+      "name": 155,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "this is fine",
+        "fur": "zombie_fur"
+      }
+    },
+    {
+      "sha": "2766dc9317d2fba70fd38c58583e1048a264c4315a1a26489d692ccc7a0c74b3",
+      "name": 156,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "clothing": "red tracksuit"
+      }
+    },
+    {
+      "sha": "304d19b4da0eeb986ebcd71d5d8549ee20674ae8ec9602931f3e5499e58655a6",
+      "name": 157,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "siamese",
+        "mouth": "yawn",
+        "eye_color": "orange",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "94e5846b5c3e39ae8d6d84d95790b0d4e9d8232c12d25aa93f8aab053ba40dd6",
+      "name": 158,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "Frankie"
+      }
+    },
+    {
+      "sha": "4e7ecc99a0ee7bd88295a6f183ae5b68fec54893472901cba1c4dcb8845d2307",
+      "name": 159,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "space",
+        "fur": "zombie_fur",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "ed27f47bcc77d9e8b9cba1785f260ee13f4a9093d9761d773cb167038342202d",
+      "name": 160,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "eyewear": "deal with it"
+      }
+    },
+    {
+      "sha": "d3f4c17efa8ed84b29dbc0860dcb4f1cdab22eb5f8afb65b8a9a8a3b5b096c14",
+      "name": 161,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "siamese",
+        "mouth": "bored",
+        "eye_color": "blue",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "711e9aacfc732625d15284d2fac36c039dd8fcb5ff934522ce2f57a2a678f5ad",
+      "name": 162,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "aviators"
+      }
+    },
+    {
+      "sha": "1fbeef792c564a5925e9833c358159218cf91fecf00745fd3950d8c0292537a6",
+      "name": 163,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "deal with it"
+      }
+    },
+    {
+      "sha": "a7798c7634737e7b9a9b89f23a08efd6585f5fa408ea566de5d6e15acc9b35df",
+      "name": 164,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "zombie_fur",
+        "eyewear": "morpheus",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "2cd8723ddce09a925bc3cd6786f7ce9daf08c253da2f2eb515994287c2446a06",
+      "name": 165,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "eyewear": "red noggles",
+        "clothing": "blue tee"
+      }
+    },
+    {
+      "sha": "e471ef8268e73b555cbca3e036d59e2c08154b55fa8d8b8174a45e94f0e08d2e",
+      "name": 166,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "eyewear": "bitcoin maxi",
+        "clothing": "fashion hoodie"
+      }
+    },
+    {
+      "sha": "b25da8d0345bfe4e5d79ff53f11333a32a7f418a698c2655530b8b7ad7b4a2bb",
+      "name": 167,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "matrix",
+        "fur": "skelly",
+        "eyewear": "deal with it",
+        "clothing": "hawaiian shirt"
+      }
+    },
+    {
+      "sha": "19a741a59ea3ba195106a41a9af154eb7036e4d199a265282f7d192d1ee4b031",
+      "name": 168,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "skelly",
+        "clothing": "hawaiian shirt"
+      }
+    },
+    {
+      "sha": "8a18333bf90048540fc9e774c2f94e4fb6e1edf28bae3507ca16f9744bfc9714",
+      "name": 169,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "4dea106a2e71b4d2724a92e6ee91b27daa161be978efcc79a793f7a97fee47ee",
+      "name": 170,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "cream",
+        "mouth": "cig",
+        "eye_color": "yellow",
+        "eyewear": "red noggles",
+        "clothing": "office shirt",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "0b10352516efdbdd51eac87aa863f570f1be4c27afa4e77f1e69c1bb1aa313cb",
+      "name": 171,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "skelly",
+        "clothing": "tie dye tee",
+        "hat": "sports headband"
+      }
+    },
+    {
+      "sha": "f1836d64389502a69ac7d7c7f75bff46dba2335e2f1759a03868aa3985b65f71",
+      "name": 172,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "eyewear": "nerd",
+        "clothing": "tie dye tee"
+      }
+    },
+    {
+      "sha": "46a1251736263ee311034d6b9ae2e8225920a22bc7daebe4f5e5be4bb3b501b3",
+      "name": 173,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "Frankie",
+        "clothing": "hawaiian shirt"
+      }
+    },
+    {
+      "sha": "2058026fdc07fa870b3b18fb6c3f3ea01070a00ca47b4bb7af69604033f64b77",
+      "name": 174,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "clothing": "hawaiian shirt"
+      }
+    },
+    {
+      "sha": "6e75a527dcd189c9ac6dcc36a19592a25d29ca9e3cdf2fa25b6bd495ac91d3d2",
+      "name": 175,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "clothing": "frank_hood"
+      }
+    },
+    {
+      "sha": "9e14af80cebab397eb205a1f98cf8541c24b1f762010ef08840fb9c2127a6529",
+      "name": 176,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "aviators",
+        "clothing": "frank_hood"
+      }
+    },
+    {
+      "sha": "1cce65301d19f709e5ae7e9c291b236ba605b0c0cf50a0621171d2f1c8f22561",
+      "name": 177,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "matrix",
+        "fur": "skelly",
+        "eyewear": "blue noggles",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "6278e048d6bb4cf871c6fcaf5d9d889027fab451e22fc2bdb49cf29b93c0c4f3",
+      "name": 178,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "0f555447d3646f0513c2a8e14a12e71b56b2c89f6164b597bc1caf2dc5992956",
+      "name": 179,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "matrix",
+        "fur": "zombie_fur",
+        "clothing": "blue tee"
+      }
+    },
+    {
+      "sha": "6e6526c29f2f511fe4234e621c3e0b8a930d14f375e96f3ce02e5917b44fc9d0",
+      "name": 180,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "clothing": "fashion hoodie"
+      }
+    },
+    {
+      "sha": "617a2acb50540068c6585393825a37c00ec145ce8e53c11b73efe2e520a2703e",
+      "name": 181,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "cool blue",
+        "mouth": "bubble gum",
+        "eye_color": "blue",
+        "clothing": "blue tracksuit",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "386420887c5af79561c646bd4cfb7949ac02b0b3f4c47a2f0a25118f1b831551",
+      "name": 182,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "space",
+        "fur": "cool blue",
+        "mouth": "bubble gum",
+        "eye_color": "orange",
+        "eyewear": "nerd",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "09b88d741a5005ce5cabf7d5a68591e07f00f9ce369b51ad61f07c84df323327",
+      "name": 183,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "eyewear": "blue noggles",
+        "clothing": "blue tracksuit",
+        "hat": "snapback"
+      }
+    },
+    {
+      "sha": "7a0a7ff662ba81a9b3fabcf9c962c9987f90cab14dc113ee749e93ec1120fdcd",
+      "name": 184,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "eyewear": "deal with it",
+        "clothing": "hawaiian shirt",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "6882c4c6141296d693591b2c8f5d54f207699654c684f5e933d317fde98cf4db",
+      "name": 185,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "matrix",
+        "fur": "skelly",
+        "hat": "wizard hat"
+      }
+    },
+    {
+      "sha": "c0d433c00a4c953d4e83101b61c34c39d1fcb5720b42ba60d0e48c4f45c9d2b5",
+      "name": 186,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "clothing": "red tracksuit"
+      }
+    },
+    {
+      "sha": "869820cc950cd2bf72c14924922169d3e8ffa6f7a9ff11800f8d1f56e57028fb",
+      "name": 187,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "windows",
+        "fur": "Frankie",
+        "eyewear": "viper glasses",
+        "clothing": "hawaiian shirt",
+        "hat": "red bucket hat"
+      }
+    },
+    {
+      "sha": "5df1087684d638edfc200f35d6b8b66a798d5b0992278dfbb6dc1ab234f87ab6",
+      "name": 188,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "zombie_fur",
+        "clothing": "hawaiian shirt"
+      }
+    },
+    {
+      "sha": "a20634416f01ae380b763d4fb39a1f559108b928202982b54348583e7b9b2286",
+      "name": 189,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "orange tabby",
+        "mouth": "bored",
+        "eye_color": "blue",
+        "clothing": "blue tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "81080af923b73010eb7bb528dab58e21d0449ea705c08cfb49e682120d3d480f",
+      "name": 190,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "red noggles",
+        "clothing": "fashion hoodie"
+      }
+    },
+    {
+      "sha": "bb812f9aecdff3446d9799e7ffc0e6274c5d5b64fb38ae2de7f79c901436c1d7",
+      "name": 191,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "Frankie",
+        "clothing": "tie dye tee"
+      }
+    },
+    {
+      "sha": "db24fadba58232e35b91ab8591c1b8265154d10ef3f98ccb0521628ba399204f",
+      "name": 192,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "clothing": "tie dye tee",
+        "hat": "sports headband"
+      }
+    },
+    {
+      "sha": "697cb4b483177275d0f74e0a47940cc2131479d3480983db8b08fee63985ce58",
+      "name": 193,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "zombie_fur",
+        "eyewear": "nerd",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "1dd8fbc15bbc000388c365fe6e0ee197a2be598eeeec456cae18a6c265379796",
+      "name": 194,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "Frankie",
+        "eyewear": "morpheus",
+        "clothing": "gold chain",
+        "hat": "sports headband"
+      }
+    },
+    {
+      "sha": "5a7ed37dcbbd7173fe581729e8a36221c37c8ebba6a19660da8e6b0d459ec378",
+      "name": 195,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly"
+      }
+    },
+    {
+      "sha": "71b2da2a2d530536c14b522e2424ebbf7290f6bcd221f25abb00c2a252f7c0b6",
+      "name": 196,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "clothing": "silver chain"
+      }
+    },
+    {
+      "sha": "51be9a21f6a7f320bdb5e4ea9e10b019afb67ed47c08ea7802436b7bcd2b7781",
+      "name": 197,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur",
+        "eyewear": "red noggles",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "12369867a5f248c14d1736061d98d7cf56d0e72a36c4cebe0ccf3fc3698a579b",
+      "name": 198,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "clothing": "red tracksuit",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "90355ad0131f737a6b65bad14b4467cb53d464d6e1334e535299c1dfc773ce71",
+      "name": 199,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "zombie_fur",
+        "eyewear": "red noggles",
+        "clothing": "tie dye tee"
+      }
+    },
+    {
+      "sha": "2a7966f436bb48d9efea1d2e7c028b62dda6b9eb672baf9b355126f8ba1198c8",
+      "name": 200,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "zombie_fur",
+        "eyewear": "viper glasses",
+        "clothing": "hacker"
+      }
+    },
+    {
+      "sha": "1d06efbee0c1b4d3270d92057a5e9dfe3f5d7204bee5a60843179824141a3d11",
+      "name": 201,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "viper glasses",
+        "clothing": "frank_hood"
+      }
+    },
+    {
+      "sha": "69028d7bfbbe8600daf3b6036ff1d603ac919e5cf0e5126105912777fa19c454",
+      "name": 202,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "zombie_fur",
+        "clothing": "hacker"
+      }
+    },
+    {
+      "sha": "a9a671dfb2b44adbec422ec3c0fd1ccd51473aca209ae127ea8fa72b8a5ce1e8",
+      "name": 203,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "viper glasses",
+        "clothing": "black hoodie"
+      }
+    },
+    {
+      "sha": "5fd5993fbad9f3bca42e7b87ec3ac290b186a10a48174b55580f9447b5074b8e",
+      "name": 204,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "zombie_fur"
+      }
+    },
+    {
+      "sha": "b3faa81aac00cd2dc6d759fb7ebc77a45bca2e1671edf48179eb0e8ea6ae7771",
+      "name": 205,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "clothing": "red tracksuit"
+      }
+    },
+    {
+      "sha": "3e0f39f22aea0f2e533ea939fe16293f487f04e926d988a8263f8b2bea88442e",
+      "name": 206,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "Frankie",
+        "clothing": "bomber"
+      }
+    },
+    {
+      "sha": "e7e014f61d2cf659c38339c0f50d67ee2cae094dd467d8d3e417309642631773",
+      "name": 207,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "Frankie",
+        "clothing": "silver chain"
+      }
+    },
+    {
+      "sha": "f78c699ff5d8a4d69f399e3e93940725057b4e4c03547bef0c466b2117e60484",
+      "name": 208,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "zombie_fur",
+        "eyewear": "morpheus",
+        "clothing": "hacker",
+        "hat": "golf"
+      }
+    },
+    {
+      "sha": "a0d2a98fef79c819725dab2cf6632ea02eb24ab4a899d06cee9c723a64f1c7ec",
+      "name": 209,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "this is fine",
+        "fur": "Frankie",
+        "clothing": "hawaiian shirt"
+      }
+    },
+    {
+      "sha": "3bc8eb0dd22c7fd1a126b1f84a5cbd7091b777cd4806e8c041a929f627083a76",
+      "name": 210,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "Frankie",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "39b326842d6f426a9e98c485ed7b4480ae31bf6727a3ab5c2a9a723eda63682b",
+      "name": 211,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur",
+        "eyewear": "nerd"
+      }
+    },
+    {
+      "sha": "0b473b796f0c5d6f2c56136c44095f5842699200a94b63bc87a08498b42fab2e",
+      "name": 212,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "zombie_fur",
+        "eyewear": "nerd",
+        "clothing": "blue tee",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "949ec26ff34a89df9b8565b45229c38c23f1c92b8e6f80dd6964cef7fd8df552",
+      "name": 213,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "siamese",
+        "mouth": "bubble gum",
+        "eye_color": "blue",
+        "clothing": "gold chain",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "b1d0e4049fa654211961199ecea73e968a2316bff37978a2c4ed16b2a2eb62cd",
+      "name": 214,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "Frankie",
+        "clothing": "silver chain"
+      }
+    },
+    {
+      "sha": "e9658ab944077e9509714e27f42b3e481934fcc4c690a2253fedadb9fb16d161",
+      "name": 215,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "eyewear": "nerd",
+        "clothing": "space suit",
+        "hat": "snapback"
+      }
+    },
+    {
+      "sha": "7c4a8da7fca1db46167dca2cf498f2fa147ddbdab7aa04b49d76419929de6a5a",
+      "name": 216,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "this is fine",
+        "fur": "orange tabby",
+        "mouth": "yawn",
+        "eye_color": "blue",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "5f162a91a1ab01c50b793017f7da6310a80d3c4df9d0e897ecf5371b48303267",
+      "name": 217,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "siamese",
+        "mouth": "bubble gum",
+        "eye_color": "purple",
+        "clothing": "space suit",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "23cefb96fb1606c4e226c27707aa970e01ea0e9f6b10fa1f3b39f026ea1a410a",
+      "name": 218,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "skelly",
+        "clothing": "blue tracksuit",
+        "hat": "safari"
+      }
+    },
+    {
+      "sha": "a7ac6d16aca646aceb75992b3e0bd5ea153e82cef74e29f5ab6e75534f3a69c4",
+      "name": 219,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "zombie_fur",
+        "eyewear": "blue noggles",
+        "clothing": "red tee"
+      }
+    },
+    {
+      "sha": "313be8ce529a64cdc4a3dcf6b54ecb51d1581e899fb8a3fff95a48185712f6f9",
+      "name": 220,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "skelly",
+        "eyewear": "blue noggles",
+        "clothing": "hawaiian shirt"
+      }
+    },
+    {
+      "sha": "7bdc5050a43b208c99e4df7b3e8beb8ad43614c56365c42f632b219a5576cea4",
+      "name": 221,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "clothing": "red tracksuit"
+      }
+    },
+    {
+      "sha": "36b81a22a06469510ca819e75f0e504385652e5a9240e8d3f6369b82ccef3e75",
+      "name": 222,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "red noggles",
+        "clothing": "frank_hood"
+      }
+    },
+    {
+      "sha": "c3b034b91d73055c0bbefa591450e322a08952c86c8e32817c8fe61153acec38",
+      "name": 223,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "red noggles",
+        "clothing": "black hoodie",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "57ad2794cb34a31e3ec1d0928cd2bb518c69ae474550b0213fa7e206798c351a",
+      "name": 224,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "Frankie",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "b753cf086588b5fd027df303c4a5a5c564eaba7f2a2014aa1f1eb422bedc5c7b",
+      "name": 225,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "red noggles",
+        "clothing": "black hoodie"
+      }
+    },
+    {
+      "sha": "9d554442a53e5b95152f0c35b45763f3da7a31f3e67fd0844ce08097b3aa737c",
+      "name": 226,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "cool blue",
+        "mouth": "mustache",
+        "eye_color": "green",
+        "eyewear": "aviators",
+        "clothing": "red tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "94d29abf7c63714012f32b5608789e1724a9a0833a895e5a777591d132e6d9e3",
+      "name": 227,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "orange tabby",
+        "mouth": "smile",
+        "eye_color": "purple",
+        "eyewear": "viper glasses",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "2e7b923764ab46ccedc0a924d495204c9247824c3a989eb1b32d9eaa237934c2",
+      "name": 228,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "Frankie",
+        "eyewear": "blue noggles",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "efdf9ced372c4860ea5b1ef1bd4eaa67430ec3fcb5a8f9c043d6e92ef7cdfe4a",
+      "name": 229,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "Frankie",
+        "eyewear": "viper glasses"
+      }
+    },
+    {
+      "sha": "8221613e4df35fac82673cb28d05e44b5413f517effb272527ebc8ef57f04ceb",
+      "name": 230,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "orange tabby",
+        "mouth": "cig",
+        "eye_color": "yellow",
+        "eyewear": "deal with it",
+        "clothing": "tie dye tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "4d168a422274f499a1163d3da417240412cc29e84943c0a6938b9642c3ffcdcf",
+      "name": 231,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "clothing": "hawaiian shirt"
+      }
+    },
+    {
+      "sha": "a2ab980b93a5a262ab1f774d25c0fe93a71fabb14e78ef5935e024283e21275c",
+      "name": 232,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "blue noggles",
+        "clothing": "frank_fashion",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "a036623f1bd3613f387ced711898e1e2732e0e3114d1599400337c12350a95c9",
+      "name": 233,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "eyewear": "morpheus"
+      }
+    },
+    {
+      "sha": "6b5bf7dbe207b8d51966d96e87a53865bda5f67de385d6a71e4f4c0260899a82",
+      "name": 234,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "this is fine",
+        "fur": "Frankie",
+        "clothing": "red tracksuit"
+      }
+    },
+    {
+      "sha": "4cc92beb45c2de50595057f736e1b2b39bc0b8d5f139084a6073813f8ce92f89",
+      "name": 235,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "77114fc288e1cee1f7e6deed2cba7f34bb1f7d38dfec2b00bd36d25d71fdad8e",
+      "name": 236,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "skelly",
+        "eyewear": "bitcoin maxi",
+        "clothing": "bomber",
+        "hat": "rainbow"
+      }
+    },
+    {
+      "sha": "2cf528d7382766bcba3c04f8f26d398d7c317647198fc965efdfce72960a2304",
+      "name": 237,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "cool blue",
+        "mouth": "smile",
+        "eye_color": "blue",
+        "eyewear": "red noggles",
+        "clothing": "office shirt",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "1d93bae07df52705058d07a6588ee4f9ec9510a1bec770d3b51bda4fc3e413d0",
+      "name": 238,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "eyewear": "red noggles",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "207cc419299799004c3044ddd1c3b50656c7c803bee43e0f220e8fc970239bee",
+      "name": 239,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "skelly",
+        "eyewear": "red noggles",
+        "hat": "durag"
+      }
+    },
+    {
+      "sha": "d658de66b9ec3a45215e26b0192eef15f13f3c7a2d85d766b9f9ba0ab71cb5d0",
+      "name": 240,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "eyewear": "red noggles"
+      }
+    },
+    {
+      "sha": "a01a1700d99a78e794a784dee8df9e4b8e4bc6767cec22c67703911250cd925b",
+      "name": 241,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "clothing": "hawaiian shirt"
+      }
+    },
+    {
+      "sha": "e8683bc7bfdf612ebeb387260b94848c7cd79cf495c2f6f03c297475da7258af",
+      "name": 242,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "zombie_fur",
+        "eyewear": "nerd",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "5f94fd52a1f3838c1995261da394adedf138b16e9986ea3f80233597302fcbcb",
+      "name": 243,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "zombie_fur",
+        "clothing": "blue tee"
+      }
+    },
+    {
+      "sha": "e8202e6ec295cbe74c2b846e912e77d712626065b8a4af9bd96814d9d5f5fdc6",
+      "name": 244,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "zombie_fur"
+      }
+    },
+    {
+      "sha": "5fd640b447a4bb539d53108a47c63283813b7c81c7814c83b3a8ecbf59fee674",
+      "name": 245,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "skelly",
+        "clothing": "hacker",
+        "hat": "black beanie"
+      }
+    },
+    {
+      "sha": "cd11ef5e2bdbce3028ff4f9b4b91d9b234c5877825ee3dfb5821a252225ac82f",
+      "name": 246,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "viper glasses",
+        "clothing": "fashion hoodie"
+      }
+    },
+    {
+      "sha": "0dc0acb940ae6aa25ccfdccb403445ecec99b77befec01a945b20279477a3c48",
+      "name": 247,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "fff6545ea8df9c5fe6752e2a8967bf0aa7816ea7edc0050c43b51216c92db878",
+      "name": 248,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "Frankie",
+        "eyewear": "deal with it",
+        "clothing": "robe",
+        "hat": "fitted cap"
+      }
+    },
+    {
+      "sha": "c81a3dfd389af7d26b60c0f94ed88beb263db8ec99bc4cf77fe82807c1473a1b",
+      "name": 249,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "Frankie",
+        "eyewear": "nerd",
+        "clothing": "tie dye tee"
+      }
+    },
+    {
+      "sha": "b6517725a11581043f665207e7a6e3cf1d4c00f1989149c34d2532673965df43",
+      "name": 250,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "nerd",
+        "clothing": "frank_fashion"
+      }
+    },
+    {
+      "sha": "f8e9ca8af20fab6e4fdce49bf0e999a48fa4c849702fc4ac0996bcec12e38243",
+      "name": 251,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "cream",
+        "mouth": "bored",
+        "eye_color": "green",
+        "clothing": "red tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "a995f8e1bb95c79631de5780293af032d03adadc7f1d91017f9c825ba87c62bf",
+      "name": 252,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "eyewear": "viper glasses",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "111dc910260786b920ca16882062a7bf36de57e31da80d6e1540a09f3d74b2b0",
+      "name": 253,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "skelly"
+      }
+    },
+    {
+      "sha": "84c698e9405e7a19885d5ca7e2f3a1d70b8309f7ddbaabe5b98190a68c1af2ac",
+      "name": 254,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "gold",
+        "mouth": "vape",
+        "eye_color": "green",
+        "eyewear": "deal with it",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "4d274a5c96747942f2772d166f802a377ac0bf8c72812045d72f04f2995c49eb",
+      "name": 255,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "red noggles",
+        "clothing": "frank_fashion"
+      }
+    },
+    {
+      "sha": "331c24ccf6d8f86ba6f7e44213febe12374566b1c6ea5d7a2b2861f3759ae683",
+      "name": 256,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "gold_skelly",
+        "clothing": "robe",
+        "hat": "golf"
+      }
+    },
+    {
+      "sha": "15815f8591b5497e673e371e4fb7b01f827d483069094faf57f3502564d5aaaa",
+      "name": 257,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "Frankie",
+        "eyewear": "deal with it",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "c57b83ae9d193003ee511a41308d8ba7f5f22c5cdc93c34bd91070385a6ad66c",
+      "name": 258,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "bitcoin maxi",
+        "clothing": "bomber"
+      }
+    },
+    {
+      "sha": "ca14287476d2a504d1170a4ca0d32ad36783684fe2ab018f73ce40be319bf9d0",
+      "name": 259,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "siamese",
+        "mouth": "bored",
+        "eye_color": "orange",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "2bcc1a6e1ebcb2f4dd8d2d4028159ebb3f142a4b28f86464e3b9388b261e5e87",
+      "name": 260,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "cool blue",
+        "mouth": "smile",
+        "eye_color": "orange",
+        "clothing": "silver chain",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "f2daecad88d8d5f7ba3424ce6f0c34090af0e33b280e5d06c7b7cce601b1188b",
+      "name": 261,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "skelly",
+        "eyewear": "nerd",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "73159e5ce41ed5057994c098128567753f36e0c333ea694a5305d3d882a1e0ed",
+      "name": 262,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "cream",
+        "mouth": "smile",
+        "eye_color": "yellow",
+        "clothing": "bomber",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "23f05505248ee4d15854ffcb5661a42936a66aad3ace060b9adc6e4e27e7de51",
+      "name": 263,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "cream",
+        "mouth": "bubble gum",
+        "eye_color": "blue",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "295f78f964d7edc81a84b7ee1cc14adc7dd8c80018e6bcbbf0fa447cb77aecfe",
+      "name": 264,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "clothing": "hacker"
+      }
+    },
+    {
+      "sha": "2a945b1b4b3d34a76431fdaf1a7c50bf3e64162b38f7dee97fd569d665092a2f",
+      "name": 265,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "Frankie"
+      }
+    },
+    {
+      "sha": "04a409b4e8fe083258d41e2b9ad9ca185c5117c0f9a1db3749268f713649034b",
+      "name": 266,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "orange tabby",
+        "mouth": "smile",
+        "eye_color": "blue",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "a2b2edc6a2edd1680e6297cad72aa96e78b1b85f3d6160ff26fcc5f834f9c4c8",
+      "name": 267,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "orange tabby",
+        "mouth": "bored",
+        "eye_color": "blue",
+        "eyewear": "red noggles",
+        "clothing": "robe",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "c4ec2cc62932d92b546e8e263a6fddee94c629c5a3f02648ee589b1cb3636855",
+      "name": 268,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "zombie_fur",
+        "eyewear": "nerd",
+        "clothing": "red tee"
+      }
+    },
+    {
+      "sha": "0afa363a18bcd9fe5fb2db211f023baa6bba1f7f1d13f9590fee80cda1c7310a",
+      "name": 269,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "orange tabby",
+        "mouth": "bored",
+        "eye_color": "orange",
+        "clothing": "red tracksuit",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "8e99f45d9337a774abd5d015d5fbede90fd7cabd422293970ff05a758cb8dfde",
+      "name": 270,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "skelly",
+        "eyewear": "bitcoin maxi",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "e811f4811244648a5b66725303a51d622d2230090bbe9023fdf99af59f18d154",
+      "name": 271,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "Frankie",
+        "clothing": "tie dye tee"
+      }
+    },
+    {
+      "sha": "8c267930333779c009aa6148d51013425cd6bec6f0d048a1793f1215a34f7e4d",
+      "name": 272,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "zombie_fur",
+        "eyewear": "aviators",
+        "clothing": "blue tee",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "3b769b2db9b7681c472f37d11c75c7868bf3f23d079251c9b21e69d37533f976",
+      "name": 273,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "skelly",
+        "eyewear": "blue noggles",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "fbbc40cd88c36f49703880a6c3fd44ac79b7c530dcef80e6ff6b0132e1ea851b",
+      "name": 274,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "skelly",
+        "eyewear": "viper glasses",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "0acc851063d5c4eab01aced7f564b17cecf59c1250f04afda2f8bd1c8dfe0898",
+      "name": 275,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "clothing": "blue tee"
+      }
+    },
+    {
+      "sha": "930e3c97d64dd83253fd1e1d183f56c60f7667c305ad2bcc2d82139287f45e51",
+      "name": 276,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "zombie_fur",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "ed753550b299f2ae631d691c9aa8744155df49d3dd5c48eac849b028f3efd3ad",
+      "name": 277,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur"
+      }
+    },
+    {
+      "sha": "7d5d634635852db4138b3d71167f5181921709ec7cadaa9dcd6dff2c8811fd78",
+      "name": 278,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "eyewear": "blue noggles",
+        "clothing": "bomber"
+      }
+    },
+    {
+      "sha": "7587ec7ee58ba04c54814d512dc365678860f2e843aded3ebf54cdcc59fdf44c",
+      "name": 279,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "cream",
+        "mouth": "vape",
+        "eye_color": "yellow",
+        "clothing": "bomber",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "0ad1b146a14868c5e0199100b48c78bc2ece67694db8f1e05e20c176929fb18d",
+      "name": 280,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "cool blue",
+        "mouth": "smile",
+        "eye_color": "blue",
+        "clothing": "robe",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "31ecc652b12596480504cda72d148afd5462df508c2d797a0b972d0dd7236be4",
+      "name": 281,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "Frankie"
+      }
+    },
+    {
+      "sha": "5f98af185e07db89dcee402fa3ba584bcb206bebf4df70c15a0506a6d00d65f9",
+      "name": 282,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "cool blue",
+        "mouth": "smile",
+        "eye_color": "blue",
+        "eyewear": "nerd",
+        "clothing": "office shirt",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "ad00abf9f052505e5efbe5d3248cd10b6d0370a933a3815f1562ae3ff030e070",
+      "name": 283,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "orange tabby",
+        "mouth": "mustache",
+        "eye_color": "blue",
+        "eyewear": "viper glasses",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "328323fcdd3c36deb2e767670c066ae005065dda51dd0c720e3aa16accc58bc1",
+      "name": 284,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "cream",
+        "mouth": "mustache",
+        "eye_color": "yellow",
+        "clothing": "blue tracksuit",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "d60cc5a8510fcf47ee2b74bdb17f80a00c50481f33fcc3abcefd2d78f9435e68",
+      "name": 285,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "clothing": "hacker",
+        "hat": "keffiyeh"
+      }
+    },
+    {
+      "sha": "4cd168acfbc3ca792ef1ad20411de553ce8205490db8c8093785b79859c71969",
+      "name": 286,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "skelly",
+        "eyewear": "deal with it",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "fe6ac89f7ca158f75104911dd4044cd7cf2d8d6a9aca10e8136ca508c19e87f1",
+      "name": 287,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "siamese",
+        "mouth": "bubble gum",
+        "eye_color": "yellow",
+        "eyewear": "red noggles",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "3a5d64b52df415c43fb20f50984c034662f6f8b738030b48979c365aa3d93594",
+      "name": 288,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "Frankie",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "76a81f0becd68c5f69e1655c16d48faccffe4e60d1249bef6cd83863f3789b09",
+      "name": 289,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "this is fine",
+        "fur": "Frankie",
+        "eyewear": "deal with it",
+        "clothing": "hawaiian shirt"
+      }
+    },
+    {
+      "sha": "953a571d1a167786275a66fec25970730851f0e5904c1643ea04a68c355eb891",
+      "name": 290,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "space",
+        "fur": "skelly",
+        "eyewear": "bitcoin maxi",
+        "clothing": "bomber",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "aa1d13daeafbad14a198abb350e09c8a1548942e1021fec44f594f3fa9e40f3a",
+      "name": 291,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "eyewear": "bitcoin maxi"
+      }
+    },
+    {
+      "sha": "0e352bd25ae93ba276669ed5ad46344e443a67863132fd8812067536c2f05c9f",
+      "name": 292,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "eyewear": "nerd"
+      }
+    },
+    {
+      "sha": "5ae3a21127dc5cc3f896d126c671d5b906a341a0de3ad6ed97896225311e51dc",
+      "name": 293,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "Frankie",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "1b5934698fcbb510f191bd851880a01175bf369fdd5dda9b125a8de394f5d3e6",
+      "name": 294,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur"
+      }
+    },
+    {
+      "sha": "a28c0c5bf398b466ed5b921f89feb8cb857fd60945676ab190b23d3be43340c4",
+      "name": 295,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "skelly",
+        "eyewear": "deal with it",
+        "clothing": "tie dye tee",
+        "hat": "golden headphones"
+      }
+    },
+    {
+      "sha": "ed281978809e0f49d510f96f297dfc9dc4311d16f6cc77abcd84babb98dc7467",
+      "name": 296,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "skelly",
+        "clothing": "bomber",
+        "hat": "safari"
+      }
+    },
+    {
+      "sha": "1a9c609bbba15b668556e778c8cd8f6b36ddd93c760bab0f2efe9ad52b73bf71",
+      "name": 297,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "Frankie",
+        "eyewear": "viper glasses",
+        "clothing": "bomber"
+      }
+    },
+    {
+      "sha": "b1c071dd1c54ade8419513aaec858092a0eaa9af28644653fe2d7cdda74cf06b",
+      "name": 298,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "cool blue",
+        "mouth": "bored",
+        "eye_color": "blue",
+        "eyewear": "bitcoin maxi",
+        "clothing": "bomber",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "401c3af89a93f0efe6efe08db706b2e5ccc7bf44b35f06fb56675aa060fa909e",
+      "name": 299,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "space",
+        "fur": "cream",
+        "mouth": "smile",
+        "eye_color": "yellow",
+        "hat": "Witch Hat",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "dac75e904f28e65f87a1a53e9d4af11c83e78589dab6b0478064a1913d178835",
+      "name": 300,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "clothing": "tie dye tee"
+      }
+    },
+    {
+      "sha": "0d23d6d0d6f33193f7dea9f3efcb50af8e54c685014aad7767710227a892647f",
+      "name": 301,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie"
+      }
+    },
+    {
+      "sha": "552e376f8b71506a2c113515a3ddd30e7bf8720f4f2c8b2c526205f0c6bf0a85",
+      "name": 302,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "Frankie",
+        "clothing": "hacker"
+      }
+    },
+    {
+      "sha": "ebd82e232592f45c7ed591e2b9f4028a71c83b32df130b2e6da7c5029e868f6d",
+      "name": 303,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "Frankie",
+        "clothing": "space suit",
+        "hat": "durag"
+      }
+    },
+    {
+      "sha": "7fcdd27b67d4bbb8df16d37eda3f374835f64642005657c5f6c6367eb539dfb5",
+      "name": 304,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie"
+      }
+    },
+    {
+      "sha": "976d6548f5169e383757c4dd859dd7c0d5a0933002ebd2d4b52fd6a7709bfa93",
+      "name": 305,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "skelly",
+        "eyewear": "aviators",
+        "clothing": "tie dye tee",
+        "hat": "black headphones"
+      }
+    },
+    {
+      "sha": "d0522c52be1606a3a2ebad4d3937d3c7915ab4f6e523d7c522b1e0fb71cb20f1",
+      "name": 306,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "skelly",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "3ac32d350d11badcc63ae66d40efb64d7c62a20fff48d1dbb6752007fe2ba4b3",
+      "name": 307,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "this is fine",
+        "fur": "zombie_fur",
+        "clothing": "bomber"
+      }
+    },
+    {
+      "sha": "b2ae2c02befe89beefcfe46f02332554147e5fe4d0cd70b5905dc5e3212ca34d",
+      "name": 308,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "clothing": "hacker"
+      }
+    },
+    {
+      "sha": "580075c6378011b2158f4f9bdf1cfb1b08a5b59761b0501e56d55f418abf32ab",
+      "name": 309,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur",
+        "eyewear": "red noggles",
+        "hat": "cowboy hat"
+      }
+    },
+    {
+      "sha": "371569873d40190a81e3d88f906cbf28da54a5dd41e4143b6330f5dfe94147a4",
+      "name": 310,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "siamese",
+        "mouth": "bored",
+        "eye_color": "purple",
+        "eyewear": "nerd",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "80def44ac019656030c8fadca65cbe125636442b1ddf4029e81be1dff6d4dec8",
+      "name": 311,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "matrix",
+        "fur": "zombie_fur",
+        "eyewear": "red noggles",
+        "hat": "safari"
+      }
+    },
+    {
+      "sha": "9da2ee82c1d2000ffc7cd5f7264a3d3eef1b7a8d8fcb98997a05ff04c99541b0",
+      "name": 312,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "matrix",
+        "fur": "cool blue",
+        "mouth": "vape",
+        "eye_color": "orange",
+        "eyewear": "red noggles",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "df2dcf0c94512e667869a526b693694c5e0571ea7318348ba6065a7ec73bb5ed",
+      "name": 313,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "Frankie",
+        "eyewear": "deal with it",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "3ad59d3fcef100600065877ff61de3592f43788b56a0e1cfc8b0ed1c025c4c2a",
+      "name": 314,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "skelly",
+        "eyewear": "bitcoin maxi"
+      }
+    },
+    {
+      "sha": "e9284fec8c2367e978aa69cde977cf872d767f2c57321626ffa886dbb76adbdd",
+      "name": 315,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "blue noggles",
+        "clothing": "silver chain"
+      }
+    },
+    {
+      "sha": "e5cf3d76afa982288f9767430a13c30d832f7a8e6eabfea454da7df1f32def1f",
+      "name": 316,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "cream",
+        "mouth": "yawn",
+        "eye_color": "yellow",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "4676475721ade03221142a6ca82ce03cade61b155caf739bcae1ea75b99c9eb3",
+      "name": 317,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "cream",
+        "mouth": "vape",
+        "eye_color": "orange",
+        "eyewear": "blue noggles",
+        "clothing": "blue tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "94c7e3ff280f527c41e07da30d861976d5524ac57334f0a795f99ec750c0cf64",
+      "name": 318,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "f02d008f31be6091701d6408afa08e9f4360ccd3d6e89ce74b86b6b6d5b051ab",
+      "name": 319,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "1c01dffd0d6aec1fa521dfb19db456f97f95ccc339cf7ed381181e8ff657a95a",
+      "name": 320,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "this is fine",
+        "fur": "skelly"
+      }
+    },
+    {
+      "sha": "dddeede98207800269c588ddebfce808e30884b7f76a9b698b08ec0534ddf732",
+      "name": 321,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "viper glasses",
+        "clothing": "blue tee",
+        "hat": "golden headphones"
+      }
+    },
+    {
+      "sha": "f5bcf374ede5b87fd17ed9af168b5328cc92b9caea508c082c7dad2ab5cfb9c9",
+      "name": 322,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "567ff804ff70bf4c55f6443483f890ea4780ab2cba527b43840404dc5cfbd92f",
+      "name": 323,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "skelly",
+        "clothing": "silver chain",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "d50be686ada8857e959e4b74c2fc9da1ef154b982aed468079d26ccc66b63975",
+      "name": 324,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "siamese",
+        "mouth": "cig",
+        "eye_color": "orange",
+        "eyewear": "deal with it",
+        "clothing": "office shirt",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "854c6d8025ee27e9d09ec6ba417cbd136c8a0f43122fddc91c4b1428ff27c26d",
+      "name": 325,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "skelly",
+        "clothing": "hacker"
+      }
+    },
+    {
+      "sha": "f80d6dd78fb88352591dee257d560585a5a21ea235adfeafe16a4da44c55202f",
+      "name": 326,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "zombie_fur",
+        "clothing": "space suit"
+      }
+    },
+    {
+      "sha": "08722883f8211314d8d3751200c46a426e8fe1f96c13b0a4f43535816b937dfe",
+      "name": 327,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "blue noggles",
+        "clothing": "blue tee"
+      }
+    },
+    {
+      "sha": "bf3db5ec4aaf6bfb55bd677d522fa21e5a1d765c808475f41c250a20de7df41b",
+      "name": 328,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "eyewear": "viper glasses"
+      }
+    },
+    {
+      "sha": "0190bee4292be3a06d893bce8bc402ba5dc4c70b31e3caffa8db64ee2ebf9f28",
+      "name": 329,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "zombie_fur",
+        "clothing": "silver chain"
+      }
+    },
+    {
+      "sha": "598b24cfc2f023a456e5b20ace1cdf10d72be2fe32977fd53a900efd0b7f8ca9",
+      "name": 330,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "siamese",
+        "mouth": "bored",
+        "eye_color": "purple",
+        "eyewear": "viper glasses",
+        "clothing": "office shirt",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "2f9a6d6df34b5180626c8d77d569dc3c0fb8e209372a4f3cb570a6ec2689706b",
+      "name": 331,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "cream",
+        "mouth": "bubble gum",
+        "eye_color": "yellow",
+        "eyewear": "aviators",
+        "clothing": "red tee",
+        "hat": "Witch Hat",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "392798adf9ad0f7e0946cf492b83d3a7aa1843c11f9eaf4ba2dd7ce391d8d691",
+      "name": 332,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "zombie_fur",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "d44800c595b98119ce0833adbbc270eaf8b74ce1af4f8c6a0989771cc297bfbe",
+      "name": 333,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "deal with it",
+        "clothing": "hacker"
+      }
+    },
+    {
+      "sha": "50a9272be58dea30bede76b3ca4a38371d3e491846614d5d0c521a0892d47566",
+      "name": 334,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "siamese",
+        "mouth": "smile",
+        "eye_color": "orange",
+        "eyewear": "viper glasses",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "d1b6a3191a5532a109cf8b1cb3b3bc803ffaef704201557171ded315fa82732e",
+      "name": 335,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "matrix",
+        "fur": "skelly",
+        "eyewear": "deal with it",
+        "clothing": "bomber"
+      }
+    },
+    {
+      "sha": "2ebba317f5aa7aeaf1bf15d95c7fcd28953a5d3227fd311811c8b58a2e712150",
+      "name": 336,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "eyewear": "viper glasses",
+        "clothing": "fashion hoodie"
+      }
+    },
+    {
+      "sha": "0cf9959be3f7f23a1dd976fbb5b9bb35c9840a2a855effad9f43979a5123be29",
+      "name": 337,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "eyewear": "aviators",
+        "clothing": "blue tee"
+      }
+    },
+    {
+      "sha": "992c4815e929a8909e58b813b36d6518103123bfde113453e8f78d5d1a3e7fd4",
+      "name": 338,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "Frankie",
+        "eyewear": "nerd"
+      }
+    },
+    {
+      "sha": "197d65fab17e1b73aa7e1ed1297de4e47fb749cc14a71cc338367515dd28f92d",
+      "name": 339,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "clothing": "red tee"
+      }
+    },
+    {
+      "sha": "6ee58d5bbe840ba75c35c43f08d8a477bc6c4de1a0113ee327caea3f94e3bb60",
+      "name": 340,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "skelly",
+        "eyewear": "bitcoin maxi",
+        "clothing": "tie dye tee",
+        "hat": "vr headset"
+      }
+    },
+    {
+      "sha": "43b93a68e90aa543231395b7662f24745c902d896ff16fe71316e01064610f9b",
+      "name": 341,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "zombie_fur",
+        "eyewear": "red noggles",
+        "clothing": "hacker",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "9893c0efd63fdbe3c74d496a7689286db09ae19d0307586630e2261188bd8a25",
+      "name": 342,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "this is fine",
+        "fur": "siamese",
+        "mouth": "yawn",
+        "eye_color": "orange",
+        "eyewear": "viper glasses",
+        "clothing": "space suit",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "8b4bd0055a70add2380151470062bda941d9279af008f33caf91c78a5c05b573",
+      "name": 343,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur",
+        "eyewear": "morpheus",
+        "clothing": "red tracksuit",
+        "hat": "red bucket hat"
+      }
+    },
+    {
+      "sha": "fb0494dc4bdf9f4b0e829735c997ae5fddd06a2aeb7a0ee3e46cf84ce34a4dde",
+      "name": 344,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "windows",
+        "fur": "orange tabby",
+        "mouth": "yawn",
+        "eye_color": "blue",
+        "eyewear": "nerd",
+        "clothing": "hawaiian shirt",
+        "hat": "Witch Hat",
+        "piercing": "earring"
+      }
+    },
+    {
+      "sha": "c9630006e869b66f3035b488ad73ea9145ab05eec347b1f9a98c879e7faac764",
+      "name": 345,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "clothing": "bomber"
+      }
+    },
+    {
+      "sha": "e07735c7292118979ed3aae0c8fd69fffa368608534359b093127fd36e75fc29",
+      "name": 346,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "orange tabby",
+        "mouth": "vape",
+        "eye_color": "yellow",
+        "eyewear": "nerd",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "44d15a5de663f85836141eebf1de9e20ef286ceab8c618f6c6961edf07e472d4",
+      "name": 347,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "morpheus",
+        "clothing": "black hoodie"
+      }
+    },
+    {
+      "sha": "cb303c65fe9283fb04e16876eb1272d60afa67c739561f2f0c36dfbbcf4e9bef",
+      "name": 348,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "siamese",
+        "mouth": "bored",
+        "eye_color": "yellow",
+        "clothing": "office shirt",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "5305d65cd15d9f98e347f2f8faefbee8b42d4217752b0afdf287980df6c19a9e",
+      "name": 349,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "skelly",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "410ccffc5cdd35a70fc203bc1a6035ce7d459c39c5f32aa94effe9c4b18dc43f",
+      "name": 350,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur",
+        "eyewear": "aviators"
+      }
+    },
+    {
+      "sha": "8a4993c42a9caff218445d6ddab85261c84ded85dd31e0f6fe916c56adf3d3b0",
+      "name": 351,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "cool blue",
+        "mouth": "yawn",
+        "eye_color": "green",
+        "clothing": "red tracksuit",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "b7df6eb9cb61d53d830cb0c5219e181a597fe144fb7862de1467805ab6ca03f1",
+      "name": 352,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "bitcoin maxi",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "9253b300b4acd18b146c18d3f26a3058734eb2145f8d29cce92b4a0c87a575c9",
+      "name": 353,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "matrix",
+        "fur": "zombie_fur",
+        "hat": "420 bucket hat"
+      }
+    },
+    {
+      "sha": "a64a9e38be2567d688bb5dc15d364d007daae0b0ca0cb352e19d34db0332e522",
+      "name": 354,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "siamese",
+        "mouth": "smile",
+        "eye_color": "purple",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "77f4bd0ee5933b252a9bab6c83c46834d2366fab03d9a140d0582e71d71e8cb1",
+      "name": 355,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "eyewear": "blue noggles"
+      }
+    },
+    {
+      "sha": "0714a21c482aa94117c1ab9b673c61346093c3d19a18bb3b65e76039dd5c1e54",
+      "name": 356,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "zombie_fur",
+        "eyewear": "bitcoin maxi",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "d327491da6a809d5c97b06d07d75a94da7644d20b21bdab75d3f1ecded6b1c62",
+      "name": 357,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "Frankie",
+        "clothing": "red tracksuit"
+      }
+    },
+    {
+      "sha": "9377542231ee35a10f38c37143ab60c11ba61a01068deebdbea5c0913709f0e0",
+      "name": 358,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "cream",
+        "mouth": "vape",
+        "eye_color": "yellow",
+        "clothing": "office shirt",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "9f314039788af29cf6d31f1367959d7478e79d5e7440fc0261187c5e1dffc1c5",
+      "name": 359,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "siamese",
+        "mouth": "smile",
+        "eye_color": "green",
+        "clothing": "robe",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "c1ddeb533693b010757c8a311b290cc4d16fdc9aa9b085a0950628aa50d2b622",
+      "name": 360,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "eyewear": "nerd",
+        "clothing": "black hoodie"
+      }
+    },
+    {
+      "sha": "784fb739edf736903eed70c9659d0ef7a1045cefa6bb1d8da9384137529209b5",
+      "name": 361,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "eyewear": "deal with it",
+        "clothing": "black hoodie"
+      }
+    },
+    {
+      "sha": "ddbd3d58830bcde16053f587eac5bb5b3dfc16015bba1223e5d53b857d272145",
+      "name": 362,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "cream",
+        "mouth": "smile",
+        "eye_color": "green",
+        "clothing": "blue tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "ae6890a703ea32a2691a91e9851d80f53199dcd63cc71a110ba3dafdd76b7d12",
+      "name": 363,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "Frankie",
+        "eyewear": "aviators",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "ef02f001a75adb946a4f2d782d86b13cc64de8fdf53ae9476fa07600fbc6a147",
+      "name": 364,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "clothing": "hacker"
+      }
+    },
+    {
+      "sha": "88fea6c53c31a4306cf32e52cb320be39e4cff55f40de3b94bac4f3dcf2a9540",
+      "name": 365,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "skelly",
+        "eyewear": "deal with it",
+        "clothing": "hacker",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "a05a5e36287d09c32311c242e8f8b985d318d64cc46a0f54b2349582e091b75f",
+      "name": 366,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "cream",
+        "mouth": "vape",
+        "eye_color": "green",
+        "eyewear": "viper glasses",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "d06836c6501fd84f38e3cccd9ecc0e05a0b54d7495992678358770f7e8020696",
+      "name": 367,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "Frankie",
+        "clothing": "hawaiian shirt"
+      }
+    },
+    {
+      "sha": "dad2cab4567460d6736ae5e438a8ad18bf171f35953073db3cd648d7de5fb547",
+      "name": 368,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "cool blue",
+        "mouth": "cig",
+        "eye_color": "orange",
+        "eyewear": "blue noggles",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "e95058257e13016cc1f75c4bc1cafb619c305e9ad25a6b08f1b1732c7f03ad4f",
+      "name": 369,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "zombie_fur",
+        "clothing": "red tracksuit",
+        "hat": "orange beanie"
+      }
+    },
+    {
+      "sha": "6ae9c7ef639426766c50f2c72fe055bfd7262c2ac16b66314fd61797be6bab63",
+      "name": 370,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "skelly",
+        "clothing": "tie dye tee"
+      }
+    },
+    {
+      "sha": "c1de605570e5e22501a216a1486e370bb0579ed17156b1fb33e80bbce7985c71",
+      "name": 371,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "cream",
+        "mouth": "cig",
+        "eye_color": "yellow",
+        "clothing": "hawaiian shirt",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "2f710d4f9e6366ca1ab3bc644bda2dfcf958d6418b6371dd4a60451d9a07ed11",
+      "name": 372,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "cream",
+        "mouth": "cig",
+        "eye_color": "purple",
+        "eyewear": "viper glasses",
+        "clothing": "silver chain",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "0f12849a08db7d53650626cae546649123e7db591f5a3de70fe1b4f920ee5205",
+      "name": 373,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "orange tabby",
+        "mouth": "smile",
+        "eye_color": "yellow",
+        "clothing": "blue tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "47cadf8c776b75f71048db00c4680c780c33f8b2e75205757029e12468acf105",
+      "name": 374,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "cool blue",
+        "mouth": "bored",
+        "eye_color": "orange",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "7cf8f417685c9d2e38670f5d539445ce6981aee57ad9fc1761765de354463cbf",
+      "name": 375,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur",
+        "eyewear": "morpheus",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "1b319251ed3561ef57797f4f0ca2e3a47abf74802987f55ad71a45151db1c671",
+      "name": 376,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "Frankie",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "4893fe8afbbfdc8ac7702af068d03d7bd671f61931387c8c24cb8cdfb481f4e6",
+      "name": 377,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "skelly",
+        "clothing": "silver chain",
+        "hat": "vr headset"
+      }
+    },
+    {
+      "sha": "d53dfce33c537872c96a46f74c791ec1138070bb9f5c07d3c72116a66ea35f5e",
+      "name": 378,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "siamese",
+        "mouth": "cig",
+        "eye_color": "blue",
+        "clothing": "bomber",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "f44cdc785ec28adc3ccfa23625840ab5c83a3819d476d00a9c30fa42f17d1ade",
+      "name": 379,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "orange tabby",
+        "mouth": "bubble gum",
+        "eye_color": "green",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "869c0aa6be3f107391b9a51ac9f8555c43cf7b85ec21df728e6c5e452c76e7e1",
+      "name": 380,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "cream",
+        "mouth": "bubble gum",
+        "eye_color": "blue",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "eacd4f46dc92c47dd01bde07a87c99bf0cad77856040fd523d5e20bebb98267b",
+      "name": 381,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "cool blue",
+        "mouth": "cig",
+        "eye_color": "orange",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "c9381d9fd36a41da9be9947dec6622ea1dec2048da6567c4853d0ae2a311323c",
+      "name": 382,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "Frankie",
+        "clothing": "blue tracksuit"
+      }
+    },
+    {
+      "sha": "6637bc77bc70bca8fe60c9fd57187ca29595fa7f8dddde2e6a5d3ea11493a882",
+      "name": 383,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "Frankie",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "e427b82c71553f4db5eaf6a29d2ca25990664e5e33c83035aeb7526472447146",
+      "name": 384,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "Frankie",
+        "eyewear": "deal with it",
+        "clothing": "frank_hood"
+      }
+    },
+    {
+      "sha": "63a85699ecaf03537a73fdbdab87c9e344afd4352c756e5e73247057cccacb3f",
+      "name": 385,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "Frankie",
+        "eyewear": "nerd"
+      }
+    },
+    {
+      "sha": "c1fc405e4ff55a376ca59876e902b5a16c5eb4670bb3e9668180720692a6caa1",
+      "name": 386,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "cream",
+        "mouth": "smile",
+        "eye_color": "purple",
+        "clothing": "red tee",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "e700e6f8644e8859647749a46910f7cd69709e01654084f928aa82759fdbfd51",
+      "name": 387,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "Frankie"
+      }
+    },
+    {
+      "sha": "6ec6ca165291482c5ce93adcaa822a0f22dea29b422711a0457c28f7ef4fdcb1",
+      "name": 388,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "zombie_fur",
+        "eyewear": "viper glasses",
+        "clothing": "red tee"
+      }
+    },
+    {
+      "sha": "1250832254e8f932b460b7e0760b5d4c75fcfdf3f6d4ec99fceb617206a3468c",
+      "name": 389,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "zombie_fur",
+        "eyewear": "nerd",
+        "clothing": "robe"
+      }
+    },
+    {
+      "sha": "ca28a015150bdfebc2b42fefe0c6261e378587356f76af358778787621f1ce45",
+      "name": 390,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "cool blue",
+        "mouth": "smile",
+        "eye_color": "green",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "5e96c868d3e8c6173e5b4164edb4b0352a70c758f7d414670c9694f7152ecbdb",
+      "name": 391,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "siamese",
+        "mouth": "smile",
+        "eye_color": "blue",
+        "eyewear": "morpheus",
+        "clothing": "hacker",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "0cc06078ba26c16e3221b58f16e43442ed3459630fa0be3ac1aba3bf5dbd2fc2",
+      "name": 392,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "red",
+        "fur": "cream",
+        "mouth": "smile",
+        "eye_color": "yellow",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "a44154cc678a50b2e9affc64acbcda056f58df79236011bc67d6f0aadd55650f",
+      "name": 393,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "green",
+        "fur": "orange tabby",
+        "mouth": "bored",
+        "eye_color": "orange",
+        "eyewear": "morpheus",
+        "clothing": "office shirt",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "5b700db31a02c0999212ab516174d14991846906b170edfa0854ab7d5e79f132",
+      "name": 394,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "cream",
+        "mouth": "bored",
+        "eye_color": "purple",
+        "hat": "Witch Hat"
+      }
+    },
+    {
+      "sha": "253efb36449e92af7f66242cf0ad9a99d84a1956cb3c663ce9736c5716496b5c",
+      "name": 395,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "blue",
+        "fur": "zombie_fur",
+        "eyewear": "nerd",
+        "clothing": "blue tee"
+      }
+    },
+    {
+      "sha": "0b78f50082ef58cf28dc1776af5442e4de8889875a80bfca76e00a956d779288",
+      "name": 396,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "orange",
+        "fur": "skelly",
+        "eyewear": "viper glasses",
+        "clothing": "blue tee"
+      }
+    },
+    {
+      "sha": "d674583357f6915c07c5ea151ed3af4d2bebb84e23cb2e23185166b9d5140761",
+      "name": 397,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "spookypurple",
+        "fur": "skelly",
+        "eyewear": "deal with it",
+        "clothing": "fashion hoodie"
+      }
+    },
+    {
+      "sha": "67bfe3c2beb29841111bede7771d83e30a785c659b9e750904c73f0beeda334b",
+      "name": 398,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "yellow",
+        "fur": "Frankie",
+        "eyewear": "deal with it",
+        "clothing": "bomber"
+      }
+    },
+    {
+      "sha": "515a6538fcb593a0cd67165b8aa3caa3d7d5419eef6d3b7292ab7b73e80485c9",
+      "name": 399,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "windows",
+        "fur": "skelly",
+        "clothing": "office shirt"
+      }
+    },
+    {
+      "sha": "565eb1690a3a3693ca5adbd06634fd337c24b778d5202894ab53f88f47bbf091",
+      "name": 400,
+      "slug": "spookypurrs",
+      "values": {
+        "background": "matrix",
+        "fur": "orange tabby",
+        "mouth": "bubble gum",
+        "eye_color": "blue",
+        "eyewear": "blue noggles",
+        "clothing": "office shirt",
+        "hat": "Witch Hat"
+      }
+    }
+  ]
+}
